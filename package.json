@@ -1,0 +1,29 @@
+{
+  "name": "easysimc-client",
+  "version": "1.0.0",
+  "description": "Unofficial SimulationCraft client that keeps up to date with the latest builds and displays an easy to use visual interface similar to Raidbots.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/kevhardy/easysimc-client"
+  },
+  "keywords": [
+    "SimulationCraft",
+    "simc",
+    "world",
+    "of",
+    "warcraft",
+    "simulation",
+    "raidbots",
+    "client",
+    "gui"
+  ],
+  "author": "Kevin Hardy",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^5.0.8"
+  }
+}
